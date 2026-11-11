@@ -1,12 +1,9 @@
 
-
- 
-
 ##  Sobre mim
 
 Oi! Sou o Rafael, estudante de Desenvolvimento de Sistemas, curto Python e estou aprendendo a construir projetos de verdade!
 
--  Estudando Técnico em Desenvolvimento de Sistemas
+-  Técnico em Desenvolvimento de Sistemas
 -  Interessado em desenvolvimento de software
 -  Atualmente praticando meus conhecimentos, criando projetos pessoais
 
