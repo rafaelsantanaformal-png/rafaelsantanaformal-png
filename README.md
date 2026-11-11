@@ -1,14 +1,14 @@
-<img width="665" height="248" alt="banner jpg" src="https://github.com/user-attachments/assets/924637a4-d745-4278-9622-2a494dcc47af" />
 
 
-
-## Rafael Santana 
+ 
 
 ##  Sobre mim
 
+Oi! Sou o Rafael, estudante de Desenvolvimento de Sistemas, curto Python e estou aprendendo a construir projetos de verdade!
+
 -  Estudando Técnico em Desenvolvimento de Sistemas
 -  Interessado em desenvolvimento de software
--  Sempre aprendendo e melhorando minhas habilidades
+-  Atualmente praticando meus conhecimentos, criando projetos pessoais
 
 ##  Linguagens & Tecnologias
 
@@ -16,7 +16,7 @@
 
 ##  Projetos
 
-- [controle-financeiro](https://github.com/rafaelsantanaformal-png/controle-financeiro): sistema de controle de receitas e despesas em Python, com persistência em JSON e testes com pytest
+- [controle-financeiro](https://github.com/rafaelsantanaformal-png/controle-financeiro): Sistema de controle de receitas e despesas em Python, com persistência em JSON e testes com pytest
 
 ##  Contato
 
