@@ -1,4 +1,4 @@
-<img width="735" height="460" alt="banner jpg" src="https://github.com/user-attachments/assets/b3ba558c-f23f-4756-adf0-e08597ec5fd0" />
+<img width="800" height="460" alt="banner jpg" src="https://github.com/user-attachments/assets/b3ba558c-f23f-4756-adf0-e08597ec5fd0" />
 
 
 ## Rafael Santana 
