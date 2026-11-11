@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Banner: pode ser uma imagem sua, ou um banner gerado em capsule-render -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seu%20Nome&fontSize=50)
 
-<!--
-**rafaelsantanaformal-png/rafaelsantanaformal-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Rafael Santana 
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudando Técnico em Desenvolvimento de Sistemas
+- 💻 Interessado em desenvolvimento de software
+- 🌱 Sempre aprendendo e melhorando minhas habilidades
+
+## 🛠️ Linguagens & Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Projetos
+
+- [controle-financeiro](https://github.com/rafaelsantanaformal-png/controle-financeiro): sistema de controle de receitas e despesas em Python, com persistência em JSON e testes com pytest
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/rafael-santana-7a40b5397/)
